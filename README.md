@@ -2,6 +2,7 @@
 airport locator using openstreetmap
 
 ## Demo :
-link : https://dazzling-johnson-a7db1d.netlify.app
+link : https://airportlocator.netlify.app/
+
 
 reference : cleverprogrammer course
